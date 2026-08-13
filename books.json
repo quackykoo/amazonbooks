@@ -1,0 +1,20 @@
+[
+  {
+    "title": "My First Shlokas and Mantras in English, Sanskrit and Hindi",
+    "description": "My First Shlokas and Mantras is a simple colourful book designed for kids of any age. Older Kids can read on their own in English, Hindi and Sanskrit while parents can read aloud to younger kids as bonding activity. It has fifteen easy Shlokas for kids to learn and recite. Easy meaning in Hindi and English has been provided for each Shloka and Mantra to help kids chant and remember daily.",
+    "coverImage": "https://m.media-amazon.com/images/I/514GvHtyvLL._UY399_FMwebp_.jpg?aicid=books-design-system-web",
+    "amazonLink": "https://www.amazon.com/dp/YOUR_ASIN_1"
+  },
+  {
+    "title": "Book Title Two",
+    "description": "A brief overview or summary of your second book, highlighting the key takeaways.",
+    "coverImage": "https://m.media-amazon.com/images/I/your-image-id-2._AC_SY460_.jpg",
+    "amazonLink": "https://www.amazon.com/dp/YOUR_ASIN_2"
+  },
+  {
+    "title": "Book Title Three",
+    "description": "A brief overview or summary of your third book.",
+    "coverImage": "https://m.media-amazon.com/images/I/your-image-id-3._AC_SY460_.jpg",
+    "amazonLink": "https://www.amazon.com/dp/YOUR_ASIN_3"
+  }
+]
