@@ -353,10 +353,7 @@
             <a href="index.html" class="home-link">🏠 Home</a>
             <span class="brand-title">Quackykoo Books</span>
         </div>
-        <form class="header-subscribe-form" action="https://app.beehiiv.com/subscribe/YOUR_PUBLICATION_ID" method="POST" target="_blank">
-            <input type="email" name="email" placeholder="Enter your email" required>
-            <button type="submit">Subscribe</button>
-        </form>
+        <script async src="https://subscribe-forms.beehiiv.com/v3/loader.js" data-beehiiv-form="02d86cf8-d12f-4488-9ff8-07c5aec779ee"></script>
     </header>
 
     <div class="container">
@@ -375,7 +372,7 @@
             </select>
         </div>
 
-        <div class="section-header">📚 Books Collection</div>
+        <div class="section-header">Books Collection</div>
         <div class="grid" id="bookGrid">
             <p style="text-align:center; grid-column: 1/-1; color: var(--text-muted);">Loading book catalog...</p>
         </div>
@@ -417,7 +414,7 @@
                 card.innerHTML = `
                     <div class="card-content">
                         <img src="${book.coverImage}" alt="${book.title}">
-                        <span class="badge">Book Release</span>
+                        
                         <h3>${book.title}</h3>
                         <p>${book.description}</p>
                     </div>
