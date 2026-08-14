@@ -24,16 +24,41 @@
     "amazonLink": "https://www.amazon.com/First-Contrast-Newborns-Themed-Images/dp/B0CFZMV97T"
   },
   {
-    "title": "Book Title Three",
-    "description": "A brief overview or summary of your third book.",
-    "coverImage": "https://m.media-amazon.com/images/I/your-image-id-3._AC_SY460_.jpg",
-    "amazonLink": "https://www.amazon.com/dp/YOUR_ASIN_3"
+    "title": "My First Christmas High Contrast Baby Book For Newborns:",
+    "description": "Black and White Pictures for 0-12 Months; Makes a Great New Baby Gift: Filled With 50+ pages",
+    "coverImage": "https://m.media-amazon.com/images/I/51+L4iK6HwL._SY522_.jpg",
+    "amazonLink": "https://www.amazon.com/First-Christmas-High-Contrast-Newborns-ebook/dp/B0CN61FRCJ"
   },
   {
-    "title": "Book Title Three",
-    "description": "A brief overview or summary of your third book.",
-    "coverImage": "https://m.media-amazon.com/images/I/your-image-id-3._AC_SY460_.jpg",
-    "amazonLink": "https://www.amazon.com/dp/YOUR_ASIN_3"
+    "title": "My First Math High Contrast Book",
+    "description": "High Contrast with Numbers and Math Symbols for Babies, Newborns and Infants (My First Math Books); Makes a Great New First Gift",
+    "coverImage": "https://m.media-amazon.com/images/I/51Y6Exb23+L._SY522_.jpg",
+    "amazonLink": "https://www.amazon.com/My-First-Math-Book-Contrast/dp/B0CDYR3QTL"
+  },
+  {
+    "title": "My First Animals A-Z Alphabets High Contrast Baby Book For Newborns",
+    "description": "Black and White Pictures for 0-12 Months; Makes a Great New Baby Gift: Filled With 50+ pages; Baby's First Year",
+    "coverImage": "https://m.media-amazon.com/images/I/31gj3clPnTL._SX342_SY445_FMwebp_.jpg",
+    "amazonLink": "https://www.amazon.com/First-Animals-Alphabets-Contrast-Newborns/dp/B0CNCXJQV7"
+  },
+  {
+    "title": "My First Halloween Alphabet High Contrast Baby Book For Newborns",
+    "description": "Black and White Pictures for 0-12 Months: Makes a Great New Baby Gift: Filled With Pictures",
+    "coverImage": "https://m.media-amazon.com/images/I/51I89e7y8oL._SY522_.jpg",
+    "amazonLink": "https://www.amazon.com/First-Halloween-Alphabet-Contrast-Newborns/dp/B0CKB67JK8"
+  },
+  {
+    "title": "My First Thanksgiving High Contrast Baby Book For Newborns",
+    "description": "Black and White Pictures for 0-12 Months; Makes a Great New Baby Gift: Filled With 40+ pages and pictures",
+    "coverImage": "https://m.media-amazon.com/images/I/51jxkErwTgL._SY522_.jpg",
+    "amazonLink": "https://www.amazon.com/First-Thanksgiving-High-Contrast-Newborns/dp/B0CJLDM134"
+  },
+  {
+    "title": "My First Diwali High Contrast Baby Book For Newborns",
+    "description": "Black and White Pictures for 0-12 Months; Diwali Themed Images to Develop your Babies Eyesight",
+    "coverImage": "https://m.media-amazon.com/images/I/41FfQtAJDQL._SY522_.jpg",
+    "amazonLink": "https://www.amazon.com/First-Diwali-High-Contrast-Newborns/dp/B0CFD9GRJ2"
   }
+ 
   
 ]
