@@ -3,13 +3,31 @@
     "title": "My First Shlokas and Mantras in English, Sanskrit and Hindi",
     "description": "Simple colourful book designed for kids of any age with fifteen easy Shlokas for kids to learn and recite.",
     "coverImage": "https://m.media-amazon.com/images/I/514GvHtyvLL._UY399_FMwebp_.jpg?aicid=books-design-system-web",
-    "amazonLink": "https://www.amazon.com/dp/YOUR_ASIN_1"
+    "amazonLink": "https://www.amazon.com/First-Shlokas-Mantras-English-Sanskrit-ebook/dp/B0CMJWMHZJ"
   },
   {
-    "title": "Book Title Two",
-    "description": "A brief overview or summary of your second book, highlighting the key takeaways.",
-    "coverImage": "https://m.media-amazon.com/images/I/your-image-id-2._AC_SY460_.jpg",
-    "amazonLink": "https://www.amazon.com/dp/YOUR_ASIN_2"
+    "title": "My First ABC High Contrast Baby Book For Newborns",
+    "description": "The Ultimate High Contrast Book for Curious Minds!",
+    "coverImage": "https://m.media-amazon.com/images/I/6195TZ48oqL._SY522_.jpg",
+    "amazonLink": "https://www.amazon.com/First-High-Contrast-Baby-Newborns-ebook/dp/B0CFRMX7W1"
+  },
+  {
+    "title": "Book Title Three",
+    "description": "A brief overview or summary of your third book.",
+    "coverImage": "https://m.media-amazon.com/images/I/your-image-id-3._AC_SY460_.jpg",
+    "amazonLink": "https://www.amazon.com/dp/YOUR_ASIN_3"
+  },
+  {
+    "title": "Book Title Three",
+    "description": "A brief overview or summary of your third book.",
+    "coverImage": "https://m.media-amazon.com/images/I/your-image-id-3._AC_SY460_.jpg",
+    "amazonLink": "https://www.amazon.com/dp/YOUR_ASIN_3"
+  },
+  {
+    "title": "Book Title Three",
+    "description": "A brief overview or summary of your third book.",
+    "coverImage": "https://m.media-amazon.com/images/I/your-image-id-3._AC_SY460_.jpg",
+    "amazonLink": "https://www.amazon.com/dp/YOUR_ASIN_3"
   },
   {
     "title": "Book Title Three",
@@ -17,4 +35,5 @@
     "coverImage": "https://m.media-amazon.com/images/I/your-image-id-3._AC_SY460_.jpg",
     "amazonLink": "https://www.amazon.com/dp/YOUR_ASIN_3"
   }
+  
 ]
